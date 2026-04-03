@@ -14,11 +14,12 @@
 
 ## About Me
 
-- 🎓 B.Tech in Electronics & Telecommunications @ Vishwakarma Institute of Technology, Pune (2027)
-- 💻 Full-Stack Developer — React, Node.js, Express, Django, MongoDB
-- 🔭 Currently exploring **Observability**, **AIOps**, and **Cloud-native** architectures
-- 🧩 Solved **300+ LeetCode problems** — Top 27.76% globally · 200 Days Badge
-- 🏆 Second Runner-up @ Impetus Hackathon 2025 · Second Place @ I2I Competition 2023
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Top-27.76%25%20Globally-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/CGPA-8.57%2F10-00BFFF?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hackathon-2nd%20Runner%20Up-gold?style=for-the-badge&logo=trophy&logoColor=white" />
+</p>
 
 ---
 
