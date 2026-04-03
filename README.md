@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saisinare&style=for-the-badge&color=00BFFF" />
   <img src="https://img.shields.io/badge/LeetCode-300%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/CGPA-8.57%2F10-00BFFF?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Top-27.76%25%20Globally-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </p>
 
 ---
