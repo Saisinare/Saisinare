@@ -11,7 +11,18 @@
   </picture>
 </p>
 
-![Header](https://img.shields.io/badge/Sai%20Sinare-Full%20Stack%20Developer-00BFFF?style=for-the-badge&labelColor=0d1117)
+<p align="center">
+
+\`\`\`
+ ____       _   ____  _
+/ ___|  __ _(_) / ___|(_)_ __   __ _ _ __ ___
+\___ \ / _\` | | \___ \| | '_ \ / _\` | '__/ _ \\
+ ___) | (_| | |  ___) | | | | | (_| | | |  __/
+|____/ \__,_|_| |____/|_|_| |_|\__,_|_|  \___|
+\`\`\`
+
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Observability+%2B+AIOps+Explorer;300%2B+LeetCode+%7C+Top+27%25+Globally;Open+to+SDE+Internships+%F0%9F%9A%80" />
 </p>
