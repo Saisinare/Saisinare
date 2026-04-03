@@ -23,7 +23,17 @@
 ---
 
 ## 🛠 Tech Stack
-[![Skills](https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,tailwind,flutter,nodejs,express,django,graphql,mongodb,mysql,postgresql,firebase,docker,git,figma,vite,sklearn&perline=7)](https://skillicons.dev)
+**Languages & Frontend**
+
+[![](https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,tailwind,flutter&perline=8)](https://skillicons.dev)
+
+**Backend & Databases**
+
+[![](https://skillicons.dev/icons?i=nodejs,express,django,graphql,mongodb,mysql,postgresql,firebase&perline=8)](https://skillicons.dev)
+
+**DevOps & Tools**
+
+[![](https://skillicons.dev/icons?i=docker,git,figma,vite,sklearn&perline=8)](https://skillicons.dev)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
