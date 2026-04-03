@@ -3,7 +3,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sai+Sinare!;Full-Stack+Developer;ECE+%40+VIT+Pune;Building+cool+stuff+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
-![Metrics](https://metrics.lecoq.io/saisinare?template=classic&languages=1&habits=1&achievements=1)
 
 
 <p align="center">
@@ -24,21 +23,7 @@
 ---
 
 ## 🛠 Tech Stack
-
-**Languages**
-`JavaScript (ES6+)` `Python` `SQL` `C++`
-
-**Frontend**
-`React.js` `Next.js` `Tailwind CSS` `Flutter`
-
-**Backend**
-`Node.js` `Express.js` `Django` `GraphQL` `REST APIs`
-
-**Databases & Cloud**
-`MongoDB` `PostgreSQL` `MySQL` `Firebase` `Docker`
-
-**Observability**
-`OpenTelemetry` `Prometheus` `Grafana` `Jaeger` `Loki`
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,python,mongodb,docker,ts,tailwind,django&perline=8)](https://skillicons.dev)
 
 ---
 
