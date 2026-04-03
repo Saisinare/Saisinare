@@ -14,8 +14,6 @@
   <a href="mailto:saisinare29@gmail.com">Email</a>
 </p>
 
----
-
 ## About Me
 
 <p align="center">
