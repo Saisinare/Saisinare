@@ -4,23 +4,30 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sai+Sinare!;Full-Stack+Developer;ECE+%40+VIT+Pune;Building+cool+stuff+%F0%9F%9A%80" alt="Typing SVG" />
 </h1> -->
 
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Sai%20Sinare&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ECE%20%40%20VIT%20Pune&descAlignY=55&descAlign=50" />
-</h1>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Sai%20Sinare&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ECE%20%40%20VIT%20Pune&descAlignY=55&descAlign=50" />
 
 <p align="center">
-  <a href="https://linkedin.com/in/saisinare">LinkedIn</a> •
-  <a href="mailto:saisinare29@gmail.com">Email</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Observability+%2B+AIOps+Explorer;300%2B+LeetCode+%7C+Top+27%25+Globally;Open+to+SDE+Internships+%F0%9F%9A%80" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saisinare&style=for-the-badge&color=00BFFF" />
+  <img src="https://img.shields.io/badge/LeetCode-300%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/CGPA-8.57%2F10-00BFFF?style=for-the-badge" />
+</p>
+
+---
 
 ## About Me
 
+- 🎓 B.Tech ECE @ Vishwakarma Institute of Technology, Pune — **2027**
+- 💻 Full-Stack Developer — React, Node.js, Express, Django, MongoDB
+- 🔭 Currently exploring **Observability**, **AIOps**, and **Cloud-native** architectures
+- 🧩 Solved **300+ LeetCode problems** — Top 27.76% globally · 200 Days Badge
+- 🏆 Second Runner-up @ Impetus Hackathon 2025 · Second Place @ I2I Competition 2023
+
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Top-27.76%25%20Globally-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/CGPA-8.57%2F10-00BFFF?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hackathon-2nd%20Runner%20Up-gold?style=for-the-badge&logo=trophy&logoColor=white" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saisinare&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
