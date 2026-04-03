@@ -23,7 +23,14 @@
 ---
 
 ## 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,python,mongodb,docker,ts,tailwind,django&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,tailwind,flutter,nodejs,express,django,graphql,mongodb,mysql,postgresql,firebase,docker,git,figma,vite,sklearn&perline=7)](https://skillicons.dev)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat&logo=grafana&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-60D0E4?style=flat&logo=jaeger&logoColor=white)
+![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=flat&logo=rollupdotjs&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 
 ---
 
