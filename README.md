@@ -11,8 +11,7 @@
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Sai%20Sinare&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ECE%20%40%20VIT%20Pune&descAlignY=55&descAlign=50" />
-
+![Header](https://img.shields.io/badge/Sai%20Sinare-Full%20Stack%20Developer-00BFFF?style=for-the-badge&labelColor=0d1117)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Observability+%2B+AIOps+Explorer;300%2B+LeetCode+%7C+Top+27%25+Globally;Open+to+SDE+Internships+%F0%9F%9A%80" />
 </p>
