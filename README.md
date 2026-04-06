@@ -3,7 +3,6 @@
 <!-- <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sai+Sinare!;Full-Stack+Developer;ECE+%40+VIT+Pune;Building+cool+stuff+%F0%9F%9A%80" alt="Typing SVG" />
 </h1> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sai%20Sinare&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ENTC%20%40%20VIT%20Pune&descAlignY=55&descAlign=50" />
 
 <p align="center">
   <picture>
