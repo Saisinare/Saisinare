@@ -1,7 +1,11 @@
+<h1 align="center">Sai Sinare</h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7454A&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sai+Sinare!;Full-Stack+Developer;ECE+%40+VIT+Pune;Building+cool+stuff+%F0%9F%9A%80" alt="Typing SVG" />
-</h1> 
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-%23f7454a?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/ECE%20%40%20VIT%20Pune-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Observability%20%26%20AIOps-333333?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to%20SDE%20Internships-%23f7454a?style=flat-square" />
+</p>
 
 <p align="center">
   <picture>
