@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Observability+%2B+AIOps+Explorer;300%2B+LeetCode+%7C+Top+27%25+Globally;Open+to+SDE+Internships+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F7454A&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Observability+%2B+AIOps+Explorer;300%2B+LeetCode+%7C+Top+27%25+Globally;Open+to+SDE+Internships+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
