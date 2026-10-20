@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12&text=Sai%20Sinare&fontSize=40&fontColor=ffffff" width="100%" />
+
 <h1 align="center">Hi, I'm Sai Sinare</h1>
 
 <p align="center">
