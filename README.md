@@ -13,11 +13,7 @@
 
 ### Tech
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,react,nextjs,tailwind,flutter,nodejs,express,django,graphql&perline=12" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,docker,prometheus,grafana,git,vite,rollupjs,sklearn,figma&perline=12" />
-</p>
+<img src="tech-stack.svg" alt="Tech stack" width="100%" />
 
 ### Projects
 
