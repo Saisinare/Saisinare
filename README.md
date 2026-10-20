@@ -1,14 +1,6 @@
 
-<h1 align="center">Hi, I'm Sai Sinare</h1>
-
 <p align="center">
-  Full-stack developer exploring <b>observability</b>, <b>AIOps</b> and <b>cloud-native</b> systems.<br/>
-  B.Tech ENTC @ Vishwakarma Institute of Technology, Pune · Class of 2027
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-SDE%20Internships-f7454a?style=flat-square" />
-  <img src="https://img.shields.io/badge/LeetCode-300%2B%20·%20Top%2027.76%25-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="banner.svg" alt="Sai Sinare" width="100%" />
 </p>
 
 ---
