@@ -5,11 +5,6 @@
 
 ---
 
-### About
-
-- Build end-to-end with **React, Node.js, Express, Django** and **MongoDB / PostgreSQL**
-- Instrument services with **OpenTelemetry, Prometheus, Grafana, Loki** and **Jaeger**
-- 🏆 2nd Runner-up, Impetus Hackathon 2025 · 2nd Place, I2I Competition 2023
 
 ### Tech
 
