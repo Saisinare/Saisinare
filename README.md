@@ -43,7 +43,6 @@
 
 ### Certifications
 
-**IBM Full Stack Software Developer** · Coursera · March 2026
 
 | Course | Issued | Credential |
 | --- | --- | --- |
