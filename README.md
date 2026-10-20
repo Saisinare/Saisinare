@@ -2,7 +2,7 @@
 
 <p align="center">
   Full-stack developer exploring <b>observability</b>, <b>AIOps</b> and <b>cloud-native</b> systems.<br/>
-  B.Tech ECE @ Vishwakarma Institute of Technology, Pune · Class of 2027
+  B.Tech ENTC @ Vishwakarma Institute of Technology, Pune · Class of 2027
 </p>
 
 <p align="center">
