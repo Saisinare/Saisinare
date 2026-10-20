@@ -43,7 +43,26 @@
 
 ### Certifications
 
-IBM Full Stack Software Developer (Coursera) · Node.js Development (Udemy)
+**IBM Full Stack Software Developer** · Coursera · March 2026
+
+| Course | Issued | Credential |
+| --- | --- | --- |
+| Introduction to Software Engineering | Mar 27, 2026 | [Verify](https://coursera.org/verify/XGCFNT5BF7EY) |
+| Introduction to Cloud Computing | Mar 27, 2026 | [Verify](https://coursera.org/verify/408C0FU8R82O) |
+| Python for Data Science, AI & Development | Mar 27, 2026 | [Verify](https://coursera.org/verify/NF7KYKTL368K) |
+| Introduction to HTML, CSS, & JavaScript | Mar 28, 2026 | [Verify](https://coursera.org/verify/PTSHH8L0741Z) |
+| Getting Started with Git and GitHub | Mar 28, 2026 | [Verify](https://coursera.org/verify/XWFPXGSKXMNV) |
+| Developing Front-End Apps with React | Mar 28, 2026 | [Verify](https://coursera.org/verify/1BE6S1ARA8W5) |
+| Developing Back-End Apps with Node.js and Express | Mar 28, 2026 | [Verify](https://coursera.org/verify/3ZFH48RVWG76) |
+| Developing AI Applications with Python and Flask | Mar 28, 2026 | [Verify](https://coursera.org/verify/U5NR2YO6VU2D) |
+| Django Application Development with SQL and Databases | Mar 28, 2026 | [Verify](https://coursera.org/verify/13PVLZMQWVCB) |
+| Introduction to Containers w/ Docker, Kubernetes & OpenShift | Mar 28, 2026 | [Verify](https://coursera.org/verify/OTAWK3RK8OYO) |
+| Application Development using Microservices and Serverless | Mar 28, 2026 | [Verify](https://coursera.org/verify/4K9CCKQJ3SGW) |
+| Full Stack Application Development Capstone Project | Mar 28, 2026 | [Verify](https://coursera.org/verify/CS7DJ16R6VQZ) |
+| Software Developer Career Guide and Interview Preparation | Mar 28, 2026 | [Verify](https://coursera.org/verify/JJRCNRF0EXWT) |
+| Generative AI: Elevate your Software Development Career | Mar 28, 2026 | [Verify](https://coursera.org/verify/CBRW5TLAT722) |
+| Full Stack Software Developer Assessment | Mar 29, 2026 | [Verify](https://coursera.org/verify/VM69YHSCKLD9) |
+
 
 ---
 
