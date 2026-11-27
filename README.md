@@ -71,14 +71,13 @@
 | --- | --- | --- |
 | [**DSA & CP**](https://github.com/Saisinare/DSA) | Data structures and competitive programming (300+ LeetCode) | C++ |
 
+### Activity
+
+<img src="contributions.svg" alt="GitHub contributions in the last year" width="100%" />
+
 ### Certifications
 
 15 Coursera courses across software engineering, full-stack development, cloud, containers and GenAI (March 2026).
-
-<details>
-<summary><b>Show all 15 certificates</b></summary>
-
-<br />
 
 | Course | Issued | Credential |
 | --- | --- | --- |
@@ -98,14 +97,6 @@
 | Generative AI: Elevate your Software Development Career | Mar 28, 2026 | [Verify](https://coursera.org/verify/CBRW5TLAT722) |
 | Full Stack Software Developer Assessment | Mar 29, 2026 | [Verify](https://coursera.org/verify/VM69YHSCKLD9) |
 
-</details>
-
-### GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saisinare&show_icons=true&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saisinare&layout=compact&hide_border=true&bg_color=00000000" alt="Top languages" height="165" />
-</p>
 
 ### Get in touch
 
@@ -119,4 +110,3 @@ Open to SDE internship opportunities. The fastest way to reach me:
 ---
 
 <p align="center"><sub>Thanks for stopping by.</sub></p>
-
