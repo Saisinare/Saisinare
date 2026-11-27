@@ -17,6 +17,13 @@
 
 <img src="tech-stack.svg" alt="Tech stack" width="100%" />
 
+
+---
+
+<img src="contributions.svg" alt="GitHub contributions in the last year" width="100%" />
+
+---
+
 ### Highlights
 
 | | Project | Impact |
@@ -25,10 +32,6 @@
 | 📚 | [**Synopsys VCS RAG**](https://github.com/Saisinare/Synopsys_VCS_RAG) | Domain-adaptive RAG that answers questions about EDA tools like Synopsys VCS from their docs |
 | ⚙️ | [**InsightX**](https://github.com/Saisinare/insightX-final) | Predictive maintenance: ML fault detection for induction motor bearings, with a React + Django dashboard |
 | 📡 | [**Observer**](https://github.com/Saisinare/observer) | Metrics, logs and traces dashboard with a drop-in Express instrumentation module |
-
----
-
-<img src="contributions.svg" alt="GitHub contributions in the last year" width="100%" />
 
 ---
 
