@@ -119,3 +119,4 @@ Open to SDE internship opportunities. The fastest way to reach me:
 ---
 
 <p align="center"><sub>Thanks for stopping by.</sub></p>
+
