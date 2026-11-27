@@ -30,6 +30,7 @@
 
 <img src="contributions.svg" alt="GitHub contributions in the last year" width="100%" />
 ---
+
 ### Projects
 
 #### Generative AI
