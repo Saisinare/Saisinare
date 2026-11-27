@@ -6,9 +6,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-SDE%20Internships-2ea44f?style=flat-square" alt="Open to SDE internships" />
-  <img src="https://img.shields.io/badge/LeetCode-300%2B%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="300+ LeetCode" />
+  <a href="https://leetcode.com/u/saisinare14/"><img src="https://img.shields.io/badge/LeetCode-300%2B%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="300+ LeetCode" /></a>
   <img src="https://img.shields.io/badge/Internships-2-0A66C2?style=flat-square&logo=briefcase&logoColor=white" alt="2 internships" />
-  <img src="https://img.shields.io/badge/Open%20source-4%20contributions-6e40c9?style=flat-square&logo=github&logoColor=white" alt="4 open source contributions" />
+  <a href="#open-source"><img src="https://img.shields.io/badge/Open%20source-4%20contributions-6e40c9?style=flat-square&logo=github&logoColor=white" alt="4 open source contributions" /></a>
 </p>
 
 ---
@@ -17,23 +17,33 @@
 
 <img src="tech-stack.svg" alt="Tech stack" width="100%" />
 
-
----
-
-<img src="contributions.svg" alt="GitHub contributions in the last year" width="100%" />
-
----
-
 ### Highlights
 
 | | Project | Impact |
 | --- | --- | --- |
 | 🧾 | [**Recon AI**](https://github.com/Saisinare/recon-ai) | Bank-to-ledger reconciliation: code does the math, an LLM reads messy text, corrections become rules; **27/27 matched, 0 wrong** on the test set |
-| 📚 | [**Synopsys VCS RAG**](https://github.com/Saisinare/Synopsys_VCS_RAG) | Domain-adaptive RAG that answers questions about EDA tools like Synopsys VCS from their docs |
-| ⚙️ | [**InsightX**](https://github.com/Saisinare/insightX-final) | Predictive maintenance: ML fault detection for induction motor bearings, with a React + Django dashboard |
+| 📚 | [**Synopsys VCS RAG**](https://github.com/Saisinare/Synopsys_VCS_RAG) | Fully offline assistant over Synopsys VCS docs: Llama 3.1 on Ollama, FAISS + TF-IDF hybrid retrieval; **85%+ retrieval accuracy** |
+| ⚙️ | [**InsightX**](https://github.com/Saisinare/insightX-final) | Random Forest + Balanced Bagging classifiers detect **5 types of bearing failure** from motor vibration data ([HUST Bearing dataset](https://www.researchgate.net/publication/368829995_HUST_bearing_a_practical_dataset_for_ball_bearing_fault_diagnosis)), with a real-time React + Django dashboard |
 | 📡 | [**Observer**](https://github.com/Saisinare/observer) | Metrics, logs and traces dashboard with a drop-in Express instrumentation module |
 
 ---
+
+<img src="contributions.svg" alt="GitHub contributions in the last year" width="100%" />
+
+### Experience
+
+| Role | What I did | Stack | When |
+| --- | --- | --- | --- |
+| **Software Developer Intern**, Ambugrid System ([certificate](https://drive.google.com/file/d/1cESAENJt_wL3MP9b8rlMz7Sx0Yz3GCwF/view?usp=sharing)) | Built the ParkVahan parking app (search and slot booking) and took it from first commit to a **live Google Play Store release in 2 months** | React Native · REST APIs | Jun 2026 – Nov 2026 |
+| **Software Developer Intern**, Kadlag Investments ([certificate](https://drive.google.com/file/d/1q8Sl94TwMKDZTyOkN71vE1TyDe5ek_jW/view?usp=sharing)) | Built the back-office website and ERP used by **20 employees**, with a lead management dashboard and employee catalog; deployed on AWS | Node.js · Express · MongoDB · AWS | Jun 2025 – Sep 2025 |
+
+### Open source
+
+| Project | Contribution | Stars |
+| --- | --- | --- |
+| [**ONEARMY**](https://github.com/ONEARMY/community-platform/pull/5019) | Paginated admin Projects page with a server-side data service, plus unit and E2E tests | 1.4k+ |
+| [**React95**](https://github.com/React95/React95/pull/600) | WAI-ARIA keyboard navigation for menus and submenus | 3.8k+ |
+| [**ChunkHound**](https://github.com/chunkhound/chunkhound/pull/496) | Fixed similarity search ignoring path filters in the LanceDB backend of an AI code-search tool | 1.4k+ |
 
 ### Projects
 
@@ -80,9 +90,17 @@
 | --- | --- | --- |
 | [**DSA & CP**](https://github.com/Saisinare/DSA) | Data structures and competitive programming (300+ LeetCode) | C++ |
 
-### Certifications
+### Certifications & awards
 
-15 Coursera courses across software engineering, full-stack development, cloud, containers and GenAI (March 2026).
+| | Issued |
+| --- | --- |
+| [**Building with the Claude API**](https://academy.claude.com/verify/50f467081bcd7e046f814acd9521d393), Anthropic Academy | 2026 |
+| [**IBM Full Stack Software Developer**](https://coursera.org/share/0d019c068eb8de280ae5a04c258db9a8), Coursera (15 courses, listed below) | 2026 |
+| [**Node.js Development**](https://drive.google.com/file/d/1zKdE4OHgzIxX8o3Qafm6iEDTjOfEVyuz/view?usp=sharing), Udemy | 2023 |
+| 🥉 **Second Runner-up**, Impetus Hackathon | 2025 |
+| 🥈 [**Second Place**](https://drive.google.com/file/d/1zKt84Ag07JZ7QB1M1SwTRaiX4J7y8dZp/view?usp=sharing), I2I Competition | 2023 |
+
+#### IBM Full Stack Software Developer courses
 
 | Course | Issued | Credential |
 | --- | --- | --- |
@@ -107,10 +125,9 @@
 
 Open to SDE internship opportunities. The fastest way to reach me:
 
-<!-- Replace the placeholder links below with your own -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisinare/)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saisinare29@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=vercel&logoColor=white)](https://saisinare.in/)
 
 ---
 
