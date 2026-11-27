@@ -1,48 +1,91 @@
-
 <p align="center">
   <img src="banner.svg" alt="Sai Sinare" width="100%" />
 </p>
 
+<h3 align="center">Software engineer building GenAI systems, full-stack apps and low-level tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-SDE%20Internships-2ea44f?style=flat-square" alt="Open to SDE internships" />
+  <img src="https://img.shields.io/badge/LeetCode-300%2B%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="300+ LeetCode" />
+  <a href="https://github.com/Saisinare?tab=repositories"><img src="https://img.shields.io/badge/Projects-19-24292e?style=flat-square&logo=github" alt="Projects" /></a>
+</p>
+
 ---
 
+### About me
+
+- **Working on:** LLM systems for finance (Recon AI) and chip design (EDA) workflows
+- **Recent result:** my Regression Manager Agent cut VLSI regression runs from **10+ hours to 2–3 hours (about 70% less)**
+- **Also into:** observability, compilers, systems programming and cross-platform apps
+- **Practice:** 300+ LeetCode problems in C++
+- **Looking for:** SDE internship roles
 
 ### Tech
 
 <img src="tech-stack.svg" alt="Tech stack" width="100%" />
 
+### Highlights
+
+| | Project | Impact |
+| --- | --- | --- |
+| 🧾 | [**Recon AI**](https://github.com/Saisinare/recon-ai) | Bank-to-ledger reconciliation: code does the math, an LLM reads messy text, corrections become rules; **27/27 matched, 0 wrong** on the test set |
+| 🧠 | [**Regression Manager Agent**](https://github.com/Saisinare/Regression-Manager-Agent-AI-Powered-VLSI-Regression-Test-Selection-System) | LLM (Qwen3-8B) + set-cover test selection; **~70% less** VLSI simulation time |
+| ☕ | [**Cafe Management System**](https://github.com/Saisinare/cafe_app) | Flutter + Firebase + Razorpay ordering and billing; **30% faster** order processing |
+| 📡 | [**Observer**](https://github.com/Saisinare/observer) | Metrics, logs and traces dashboard with a drop-in Express instrumentation module |
+
 ### Projects
+
+#### Generative AI
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **GEN AI** | | |
-| [**Regression Manager Agent**](https://github.com/Saisinare/Regression-Manager-Agent-AI-Powered-VLSI-Regression-Test-Selection-System) | AI-powered VLSI test selection; cut simulation time from 10+ hours to 2-3 hours (70%) | Python · LLM (Qwen3-8B) · Set-cover |
-| [**Synopsys VCS RAG**](https://github.com/Saisinare/Synopsys_VCS_RAG) | Domain-adaptive RAG system for EDA tools like Synopsys VCS | Python · RAG · LLM |
-| [**promptfit**](https://github.com/Saisinare/promptfit) | Toolkit that fits LLM prompts into a token budget: estimates tokens, ranks by relevance, compresses | Python · LLM · RAG |
-| [**Slidesync.ai**](https://github.com/Saisinare/Slidesync.ai) | AI-powered slide generation tool | JavaScript |
-| | | |
-| **FULL-STACK & MOBILE** | | |
-| [**Cafe Management System**](https://github.com/Saisinare/cafe_app) | Ordering and billing app; cut order processing time by 30% | Flutter · Firebase · Razorpay |
+| [**Recon AI**](https://github.com/Saisinare/recon-ai) | Bank-to-ledger reconciliation with a 5-layer pipeline (rules, LLM extraction, fuzzy match, split-payment solver, LLM judge) that learns rules from your approvals | Python · FastAPI · React · LLM (Groq / Gemini / Ollama) |
+| [**Regression Manager Agent**](https://github.com/Saisinare/Regression-Manager-Agent-AI-Powered-VLSI-Regression-Test-Selection-System) | AI-powered VLSI regression test selection | Python · LLM (Qwen3-8B) · Set-cover |
+| [**Synopsys VCS RAG**](https://github.com/Saisinare/Synopsys_VCS_RAG) | Domain-adaptive RAG system for EDA tools such as Synopsys VCS | Python · RAG · LLM |
+| [**promptfit**](https://github.com/Saisinare/promptfit) | Fits LLM prompts into a token budget: estimates tokens, ranks by relevance, compresses | Python · LLM · RAG |
+| [**Slidesync.ai**](https://github.com/Saisinare/Slidesync.ai) | AI-powered slide generation | JavaScript |
+
+#### Full-stack & mobile
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**Cafe Management System**](https://github.com/Saisinare/cafe_app) | Ordering and billing app for cafes | Flutter · Firebase · Razorpay |
 | [**Rently**](https://github.com/Saisinare/Rently) | Cross-platform real estate app for renters and landlords | React Native · Expo · TypeScript |
 | [**InsightX**](https://github.com/Saisinare/insightX-final) | Predictive maintenance: ML fault detection for induction motor bearings | React · Django · Scikit-learn |
-| [**Alumni Connect**](https://github.com/Saisinare/Alumni_Connect) | Alumni data management and engagement platform for SIH 2025 | JavaScript |
+| [**Alumni Connect**](https://github.com/Saisinare/Alumni_Connect) | Alumni data management and engagement platform (SIH 2025) | JavaScript |
 | [**Expense Tracker**](https://github.com/Saisinare/Expense-Tracker) | Personal expense tracking app | TypeScript |
-| [**Tracker**](https://github.com/Saisinare/Tracker) | App to track and split group expenses | C++ |
-| | | |
-| **DEVELOPER TOOLS** | | |
-| [**Observer**](https://github.com/Saisinare/observer) | Observability dashboard for metrics, logs and traces, with a drop-in Express instrumentation module | Node · OpenTelemetry · Prometheus · Grafana · Jaeger · Loki · Docker |
+| [**Tracker**](https://github.com/Saisinare/Tracker) | Track and split group expenses | C++ |
+
+#### Developer tools
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**Observer**](https://github.com/Saisinare/observer) | Observability dashboard with drop-in Express instrumentation | Node · OpenTelemetry · Prometheus · Grafana · Jaeger · Loki · Docker |
 | [**DustUI**](https://github.com/Saisinare/dustui) | Tree-shakeable React component library with Storybook docs | React · TypeScript · Rollup · Tailwind · Storybook |
-| | | |
-| **SYSTEMS & TRADING** | | |
+
+#### Systems & trading
+
+| Project | What it is | Stack |
+| --- | --- | --- |
 | [**mini-compiler**](https://github.com/Saisinare/mini-compiler) | Small compiler built from scratch | C++ |
 | [**custom-assembler**](https://github.com/Saisinare/custom-assembler) | Custom assembler | C++ |
 | [**kernel-profiler**](https://github.com/Saisinare/kernel-profiler) | Kernel profiling tool | C++ |
 | [**Binance Trading Bot**](https://github.com/Saisinare/Binance-Trading-Bot) | Automated crypto trading bot | Python |
-| | | |
-| **PROBLEM SOLVING** | | |
-| [**DSA & CP**](https://github.com/Saisinare/DSA) | Data structures and competitive programming journey (300+ LeetCode) | C++ |
+
+#### Problem solving
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**DSA & CP**](https://github.com/Saisinare/DSA) | Data structures and competitive programming (300+ LeetCode) | C++ |
 
 ### Certifications
 
+15 Coursera courses across software engineering, full-stack development, cloud, containers and GenAI (March 2026).
+
+<details>
+<summary><b>Show all 15 certificates</b></summary>
+
+<br />
 
 | Course | Issued | Credential |
 | --- | --- | --- |
@@ -62,7 +105,24 @@
 | Generative AI: Elevate your Software Development Career | Mar 28, 2026 | [Verify](https://coursera.org/verify/CBRW5TLAT722) |
 | Full Stack Software Developer Assessment | Mar 29, 2026 | [Verify](https://coursera.org/verify/VM69YHSCKLD9) |
 
+</details>
+
+### GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saisinare&show_icons=true&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saisinare&layout=compact&hide_border=true&bg_color=00000000" alt="Top languages" height="165" />
+</p>
+
+### Get in touch
+
+Open to SDE internship opportunities. The fastest way to reach me:
+
+<!-- Replace the placeholder links below with your own -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL)
 
 ---
 
-<p align="center"><sub>Open to SDE internship opportunities. Feel free to reach out.</sub></p>
+<p align="center"><sub>Thanks for stopping by.</sub></p>
