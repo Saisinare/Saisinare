@@ -26,6 +26,10 @@
 | ⚙️ | [**InsightX**](https://github.com/Saisinare/insightX-final) | Predictive maintenance: ML fault detection for induction motor bearings, with a React + Django dashboard |
 | 📡 | [**Observer**](https://github.com/Saisinare/observer) | Metrics, logs and traces dashboard with a drop-in Express instrumentation module |
 
+### Activity
+
+<img src="contributions.svg" alt="GitHub contributions in the last year" width="100%" />
+
 ### Projects
 
 #### Generative AI
@@ -70,10 +74,6 @@
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**DSA & CP**](https://github.com/Saisinare/DSA) | Data structures and competitive programming (300+ LeetCode) | C++ |
-
-### Activity
-
-<img src="contributions.svg" alt="GitHub contributions in the last year" width="100%" />
 
 ### Certifications
 
